@@ -36,6 +36,11 @@ app.io = ioLib.listen server
 
 
 
+app.io.configure -> 
+  app.io.set "transports", ["xhr-polling"]
+  app.io.set "polling duration", 10
+
+# socket = new io.Socket();
 
 app.io.sockets.on 'connection', (socket)->
   socket.on 'ping', ->

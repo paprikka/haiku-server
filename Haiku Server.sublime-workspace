@@ -1,0 +1,1544 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"test",
+				"TEST_PATH"
+			],
+			[
+				"new",
+				"newSlide"
+			],
+			[
+				"re",
+				"replace"
+			],
+			[
+				"ne",
+				"nextSlide"
+			],
+			[
+				"ma",
+				"markdownToSlides"
+			],
+			[
+				"de",
+				"defaultColors"
+			],
+			[
+				"newC",
+				"newCategory"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"slide",
+				"slideBody"
+			],
+			[
+				"hai",
+				"haiku-duration"
+			],
+			[
+				"ven",
+				"vendorScripts"
+			],
+			[
+				"buil",
+				"buildStyles"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"curr",
+				"currentSlide"
+			],
+			[
+				"cur",
+				"currentCategory"
+			],
+			[
+				"ca",
+				"categoryIndex"
+			],
+			[
+				"cat",
+				"catIndex"
+			],
+			[
+				"haiku-nav",
+				"haiku-nav__category"
+			],
+			[
+				"isAL",
+				"isLastSlide"
+			],
+			[
+				"isFir",
+				"isFirstCategory"
+			],
+			[
+				"isF",
+				"isFirstCategory"
+			],
+			[
+				"is",
+				"isLastCategory"
+			],
+			[
+				"sli",
+				"slides"
+			],
+			[
+				"on",
+				"onKeyDown"
+			],
+			[
+				"haiku",
+				"haiku__category"
+			],
+			[
+				"clien",
+				"clientX"
+			],
+			[
+				"off",
+				"offsetX"
+			],
+			[
+				"onR",
+				"onRectangleMouseMove"
+			],
+			[
+				"mouse",
+				"mousemove"
+			],
+			[
+				"sta",
+				"startDragRectangle"
+			],
+			[
+				"start",
+				"startDrag"
+			],
+			[
+				"onS",
+				"onStartDrag"
+			],
+			[
+				"mm",
+				"mousemove"
+			],
+			[
+				"onSt",
+				"onStopDrag"
+			],
+			[
+				"onM",
+				"onMouseMove"
+			],
+			[
+				"of",
+				"offsetY"
+			],
+			[
+				"ofset",
+				"offsetX"
+			],
+			[
+				"en",
+				"endX"
+			],
+			[
+				"im",
+				"imports"
+			],
+			[
+				"vie",
+				"viewport__content"
+			],
+			[
+				"lorem",
+				"lorem	lorem - Short paragraph"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"par",
+				"particles"
+			],
+			[
+				"pa",
+				"particle"
+			],
+			[
+				"in",
+				"innerWidth"
+			],
+			[
+				"inn",
+				"innerHeight"
+			],
+			[
+				"windowH",
+				"windowHalfY"
+			],
+			[
+				"win",
+				"windowHalfY"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"parti",
+				"particles"
+			],
+			[
+				"T",
+				"THREE"
+			],
+			[
+				"com",
+				"components"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config.coffee",
+			"settings":
+			{
+				"buffer_size": 1475,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controllers/player.coffee",
+			"settings":
+			{
+				"buffer_size": 105,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controllers/test.coffee",
+			"settings":
+			{
+				"buffer_size": 112,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 278,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.coffee",
+			"settings":
+			{
+				"buffer_size": 1243,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/test.jade",
+			"settings":
+			{
+				"buffer_size": 492,
+				"line_ending": "Windows",
+				"name": "h1  Test page"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"selected_items":
+		[
+			[
+				"closal",
+				"File: Close All"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"prosave",
+				"Project: Save As"
+			],
+			[
+				"proclo",
+				"Project: Close"
+			],
+			[
+				"jaas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sve",
+				"File: Save All"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"scs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"closea",
+				"File: Close All"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"closeal",
+				"File: Close All"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"clos",
+				"File: Close All"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"statu",
+				"View: Toggle Status Bar"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"closa",
+				"File: Close All"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"usre",
+				"Preferences: Settings - User"
+			],
+			[
+				"closeall",
+				"File: Close All"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"close al",
+				"File: Close All"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"toggl",
+				"Toggle Comment"
+			],
+			[
+				"togg",
+				"View: Toggle Menu"
+			],
+			[
+				"term",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"termin",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"them",
+				"Schemr: List all schemes"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"the",
+				"Schemr: Next scheme"
+			],
+			[
+				"use",
+				"Preferences: Settings - User"
+			],
+			[
+				"mad",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sche",
+				"Schemr: List all schemes"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"schem",
+				"Schemr: List all schemes"
+			],
+			[
+				"theme",
+				"Schemr: Next scheme"
+			],
+			[
+				"jvasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"emme",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"close ",
+				"File: Close All"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 117.0,
+		"history":
+		[
+			"help",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/developer/haiku-server/server.js",
+		"/D/developer/haiku-server/index.coffee",
+		"/D/developer/haiku-server/controllers/player.jade",
+		"/D/developer/haiku-server/views/index.jade",
+		"/D/developer/haiku-server/config.coffee",
+		"/D/developer/haiku-server/controllers/player.coffee",
+		"/d/developer/haiku-server/package.json",
+		"/D/developer/haiku/styles/ui/haiku/_categories.scss",
+		"/D/developer/haiku/public/drop/drop.html",
+		"/D/developer/haiku/styles/ui/_drop.scss",
+		"/d/developer/haiku/styles/ui/_h.scss",
+		"/d/developer/haiku/styles/_typography.scss",
+		"/d/developer/haiku/styles/haiku/_slides.scss",
+		"/d/developer/haiku/styles/ui/_haiku.scss",
+		"/d/developer/haiku/src/haiku/directives/haiku.coffee",
+		"/d/developer/haiku/src/haiku/services/slides.coffee",
+		"/d/developer/haiku/styles/haiku/_categories.scss",
+		"/d/developer/haiku/src/haiku/partials/haiku.jade",
+		"/D/developer/haiku/styles/haiku/_default-theme.scss",
+		"/d/developer/haiku/GruntFile.coffee",
+		"/d/developer/haiku/src/haiku/services/markdown.coffee",
+		"/d/developer/haiku/vendor/marked/lib/marked.js",
+		"/D/developer/haiku/src/haiku/services/markdown.coffee",
+		"/d/developer/haiku/imports.json",
+		"/d/developer/haiku/init.sh",
+		"/D/developer/haiku/src/haiku/directives/h-tap.coffee",
+		"/d/developer/haiku/assets/js/modernizr.js",
+		"/d/developer/haiku/styles/app.scss",
+		"/d/developer/haiku/styles/haiku/_nav.scss",
+		"/D/developer/haiku/src/haiku/services/hammer.coffee",
+		"/d/developer/haiku/src/head.jade",
+		"/d/developer/haiku/src/index.jade",
+		"/d/developer/haiku/vendor/hammerjs/dist/jquery.hammer.js",
+		"/d/developer/haiku/src/index.coffee",
+		"/d/developer/haiku/src/pages/partials/intro.jade",
+		"/D/developer/haiku/src/haiku/directives/haiku.coffee",
+		"/D/developer/haiku/src/haiku/services/slides.coffee",
+		"/D/developer/haiku/styles/ui/_haiku.scss",
+		"/d/developer/haiku/vendor/inuit.css/objects/_flexbox.scss",
+		"/D/developer/haiku/src/haiku/partials/haiku.jade",
+		"/d/developer/haiku/src/application.coffee",
+		"/d/developer/haiku/src/haiku/_main.coffee",
+		"/d/developer/haiku/public/pages/partials/intro.html",
+		"/d/developer/haiku/styles/_colors.scss",
+		"/D/developer/parde/.editorconfig",
+		"/D/developer/parde/src/canvas/directives/drag-rectangle.coffee",
+		"/D/developer/parde/src/canvas/views/edit.jade",
+		"/D/developer/parde/src/canvas/directives/partials/editor.jade",
+		"/D/developer/parde/styles/ui/canvas/_editor.scss",
+		"/D/developer/parde/styles/ui/canvas/_drag-rectangle.scss",
+		"/D/developer/parde/styles/app.scss",
+		"/D/developer/parde/styles/ui/_canvas.scss",
+		"/D/developer/parde/styles/ui/_drop.scss",
+		"/D/developer/parde/styles/_config.scss",
+		"/D/developer/parde/config.rb",
+		"/D/developer/parde/src/canvas/directives/editor.coffee",
+		"/D/developer/parde/src/canvas/directives/drag-rectangle.jade",
+		"/D/developer/parde/vendor/inuit.css/objects/_flexbox.scss",
+		"/D/developer/parde/styles/_colors.scss",
+		"/d/developer/Contentment/padify/views/head.html",
+		"/D/developer/skeletor/src/hacker-news/partials/index.jade",
+		"/C/Users/vampy_000/.bashrc",
+		"/C/Users/vampy_000/.ssh/id_rsa.pub",
+		"/D/developer/skeletor/src/hacker-news/_main.coffee",
+		"/D/developer/skeletor/src/hacker-news/controllers/index.coffee",
+		"/D/developer/skeletor/src/index.coffee",
+		"/D/developer/skeletor/src/hacker-news/services/hacker-news.coffee",
+		"/D/developer/skeletor/styles/app.scss",
+		"/D/developer/skeletor/styles/ui/_hacker-news.scss",
+		"/D/developer/skeletor/styles/_typography.scss",
+		"/D/developer/skeletor/src/hacker-news/controllers/index.jade",
+		"/D/developer/skeletor/GruntFile.coffee",
+		"/D/developer/skeletor/assets/js/modernizr.js",
+		"/D/developer/skeletor/src/hacker-news/main.coffee",
+		"/D/developer/skeletor/src/head.jade",
+		"/C/Users/vampy_000/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/developer/skeletor/src/index.jade",
+		"/D/developer/Skeletor.sublime-project",
+		"/D/developer/skeletor/src/hn/index.jade",
+		"/D/developer/skeletor/src/hacker-news/index.coffee",
+		"/D/developer/skeletor/public/css/app.css",
+		"/D/developer/skeletor/config.rb",
+		"/D/developer/skeletor/src/hacker-news/index.jade",
+		"/D/developer/skeletor/src/pages/404.jade",
+		"/D/developer/skeletor/src/application.coffee",
+		"/D/developer/skeletor/public/js/app.js",
+		"/D/developer/skeletor/src/pages/intro.coffee",
+		"/D/developer/skeletor/bin/dev.sh",
+		"/D/developer/skeletor/src/common/ui/_buttons.scss",
+		"/D/developer/skeletor/src/common/ui/_top-nav.scss",
+		"/D/developer/Algomi/connectivity-ui/app/styles/ui/_buttons.scss",
+		"/D/developer/skeletor/src/app.scss",
+		"/D/developer/skeletor/test/js/src/application.js",
+		"/D/developer/skeletor/src/pages/partials/intro.jade",
+		"/D/developer/skeletor/src/common/_typography.scss",
+		"/D/developer/skeletor/vendor/inuit.css/_defaults.scss",
+		"/D/developer/skeletor/vendor/inuit.css/base/_headings.scss",
+		"/C/Users/vampy_000/AppData/Local/Temp/scp48193/tn/wp-content/themes/blue/pages/wyslij_zamowienie.php",
+		"/C/Users/vampy_000/AppData/Local/Temp/scp44569/tn/wp-content/themes/blue/blue.css",
+		"/C/Users/vampy_000/Dysk Google/Teatr Nasz (1)/Teksty TN.txt",
+		"/C/Users/vampy_000/AppData/Local/Temp/scp56492/tn/wp-content/themes/blue/pages/kup_dvd_nk.php",
+		"/C/Users/vampy_000/AppData/Local/Temp/scp46993/tn/wp-content/themes/blue/index.php",
+		"/C/Users/vampy_000/AppData/Local/Temp/scp23316/tn/wp-content/themes/blue/pages/kup_piosenki_tn.php",
+		"/C/Users/vampy_000/AppData/Local/Temp/scp29794/tn/wp-content/themes/blue/pages/kup_plyte.php",
+		"/D/developer/Teatr Nasz/Strona WWW/tn/wp-content/uploads/2010/05/image-681.jpg",
+		"/D/developer/Teatr Nasz/Strona WWW/app/index.php",
+		"/D/developer/Teatr Nasz/Strona WWW/app/wp-config.php",
+		"/D/developer/Teatr Nasz/Strona WWW/app/wp-content/themes/blue/main_page.php",
+		"/C/Users/vampy_000/AppData/Local/Temp/scp27697/tn/wp-content/themes/blue/header.php",
+		"/C/Users/vampy_000/AppData/Local/Temp/scp29761/tn/wp-content/themes/blue/pages/kup_dvd_nk.php",
+		"/D/developer/Teatr Nasz/Strona WWW/app/wp-content/themes/blue/lib/plugins.js",
+		"/C/Users/vampy_000/AppData/Local/Temp/scp54338/tn/wp-content/themes/blue/pages/kup_ksiazke.php",
+		"/C/Users/vampy_000/AppData/Local/Temp/scp46471/tn/wp-content/themes/blue/main_page.php",
+		"/C/Users/vampy_000/AppData/Local/Temp/scp25752/tn/wp-content/themes/blue/site_settings.php",
+		"/D/developer/Teatr Nasz/Strona WWW/app/wp-content/themes/blue/pages/kup_dvd_nk.php",
+		"/C/wamp/alias/sqlbuddy.conf",
+		"/D/developer/Teatr Nasz/Strona WWW/app/wp-content/themes/blue/site_settings.php",
+		"/C/Users/vampy_000/AppData/Local/Temp/scp06419/tn/wp-content/themes/blue/domyslna.php",
+		"/D/developer/Teatr Nasz/Strona WWW/app/wp-content/themes/blue/blue.css",
+		"/C/wamp/alias/teatr.conf",
+		"/d/developer/skeletor/app/assets/js/modernizr.js",
+		"/d/developer/skeletor/app/styles/app.scss",
+		"/d/developer/skeletor/app/styles/ui/_icon-config.scss",
+		"/d/developer/skeletor/app/styles/ui/_icons.scss",
+		"/d/developer/skeletor/app/src/pages/partials/intro.jade",
+		"/d/developer/skeletor/GruntFile.coffee",
+		"/d/developer/skeletor/config.rb",
+		"/d/developer/skeletor/app/styles/_colors.scss"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"*.*",
+			"*.scss",
+			"**/blue/*.js",
+			"**/blue/*.php",
+			"**/blue/*.js",
+			"**/blue/*.php",
+			"*.php",
+			"*.scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"remote-direction",
+			":",
+			"player",
+			"createServer",
+			"PUBLIC_PATH",
+			"path",
+			"100",
+			"e.delta",
+			"e.",
+			"cat",
+			"cb",
+			"slideFromMarkdown",
+			"extractBackgrounds",
+			"\\n",
+			"link",
+			"img",
+			"preventDefault",
+			"stopPropagation",
+			"stopImmediatePropagation",
+			"onDrop",
+			"$white",
+			"scale",
+			"0))",
+			"slides",
+			"categories ",
+			"categories",
+			"##",
+			", ",
+			"segoe ui",
+			"bind",
+			"ppkTap",
+			"element",
+			"index",
+			"scope.cate",
+			"getSlideClass",
+			"currentCategory",
+			",)",
+			"haiku-nav__button--active",
+			"isCurrentSlide",
+			"$gray-lighter",
+			" $gray-lighter",
+			".haiku-nav",
+			".4s",
+			"yes if",
+			"then",
+			"Last",
+			"cat",
+			"category",
+			"currentSlide",
+			"currentCategory",
+			"= current",
+			"Category",
+			".haiku__slide",
+			".haiku__category",
+			".haiku",
+			"slide",
+			"app.ui",
+			"$blue",
+			".ppk-drag-rectangl",
+			"scale",
+			"newScale",
+			"ng-click",
+			"scale",
+			"/",
+			"scope.style",
+			"position",
+			"cropCoords",
+			"$ppk-drag-rectangle-bg",
+			"start",
+			"window",
+			"$scope",
+			"$w",
+			"end",
+			"x",
+			"onStopDrag",
+			"onStartDrag",
+			"10",
+			"$scope",
+			"$scope.",
+			"X",
+			"end",
+			"style",
+			"	",
+			"{}",
+			"/js",
+			"config_",
+			"config",
+			"{}",
+			"data",
+			" on",
+			" ",
+			"clean",
+			"hacker",
+			"'app'",
+			"compileF",
+			"Segoe UI Light",
+			"Verdana",
+			"copy",
+			", ",
+			"common/",
+			"styl",
+			"scs",
+			"scss",
+			"@import \"",
+			"compass",
+			"top-nav",
+			"{}",
+			".alpha",
+			"alpha",
+			"giga",
+			"app",
+			"app/",
+			"app/assets",
+			"app/",
+			"app/src",
+			"DVD",
+			"książkę",
+			"http://teatrnasz.pl/tn/wp-content/uploads/2010/05/dowieszka-wieczory-kabaretowe.jpg",
+			"WIECZÓR KABARETOWY<br />\n <span style=\"color: #ff0000;\">(spektakl również dla grup)</span>",
+			"OBRAZEK",
+			"WIECZÓR KABARETOWY",
+			"kabaretowy",
+			"ñ",
+			"æ",
+			"¯",
+			"¿",
+			"ê",
+			"¹"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"NASZA KLASA\" jest jednym z wielu autorskich przedstawień Teatru Naszego. Prapremiera miała miejsce w Michałowicach w maju 2009 roku. "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1226,
+								1226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 316.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "controllers/player.coffee",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "controllers/test.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1122,
+								1122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 285.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "views/test.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								387,
+								387
+							]
+						],
+						"settings":
+						{
+							"auto_name": "h1  Test page",
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"project": "Haiku Server.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"test",
+				"views\\test.jade"
+			],
+			[
+				"testjade",
+				"views\\test.jade"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"confi",
+				"config.coffee"
+			],
+			[
+				"co",
+				"config.coffee"
+			],
+			[
+				"nav",
+				"styles\\ui\\haiku\\_nav.scss"
+			],
+			[
+				"categoriscs",
+				"styles\\ui\\haiku\\_categories.scss"
+			],
+			[
+				"slidesscs",
+				"styles\\ui\\haiku\\_slides.scss"
+			],
+			[
+				"haiscs",
+				"styles\\ui\\_haiku.scss"
+			],
+			[
+				"mark",
+				"vendor\\marked\\lib\\marked.js"
+			],
+			[
+				"cate",
+				"assets\\examples\\categories.md"
+			],
+			[
+				"haikja",
+				"src\\haiku\\partials\\haiku.jade"
+			],
+			[
+				"slides",
+				"src\\haiku\\services\\slides.coffee"
+			],
+			[
+				"dropscs",
+				"styles\\ui\\_drop.scss"
+			],
+			[
+				"dropco",
+				"src\\drop\\drop.coffee"
+			],
+			[
+				"drop",
+				"public\\drop\\drop.html"
+			],
+			[
+				"hai",
+				"src\\haiku\\directives\\haiku.coffee"
+			],
+			[
+				"editorjade",
+				"src\\canvas\\directives\\partials\\editor.jade"
+			],
+			[
+				"editocoff",
+				"src\\canvas\\directives\\editor.coffee"
+			],
+			[
+				"navsc",
+				"styles\\ui\\haiku\\_nav.scss"
+			],
+			[
+				"haikujade",
+				"src\\haiku\\partials\\haiku.jade"
+			],
+			[
+				"slidescs",
+				"styles\\ui\\haiku\\_slides.scss"
+			],
+			[
+				"typo",
+				"styles\\_typography.scss"
+			],
+			[
+				"haiku",
+				"src\\haiku\\directives\\haiku.coffee"
+			],
+			[
+				"import",
+				"imports.json"
+			],
+			[
+				"slide",
+				"styles\\haiku\\_slides.scss"
+			],
+			[
+				"initsh",
+				"init.sh"
+			],
+			[
+				"grunt",
+				"GruntFile.coffee"
+			],
+			[
+				"haikuco",
+				"src\\haiku\\directives\\haiku.coffee"
+			],
+			[
+				"haikco",
+				"src\\haiku\\directives\\haiku.coffee"
+			],
+			[
+				"haikuscs",
+				"styles\\ui\\_haiku.scss"
+			],
+			[
+				"appscs",
+				"styles\\app.scss"
+			],
+			[
+				"serslide",
+				"src\\haiku\\services\\slides.coffee"
+			],
+			[
+				"haikucoff",
+				"src\\haiku\\directives\\haiku.coffee"
+			],
+			[
+				"",
+				"styles\\haiku\\_slides.scss"
+			],
+			[
+				"head",
+				"src\\head.jade"
+			],
+			[
+				"serhaiku",
+				"src\\haiku\\directives\\haiku.coffee"
+			],
+			[
+				"dirhaiku",
+				"src\\haiku\\directives\\haiku.coffee"
+			],
+			[
+				"haslide",
+				"styles\\haiku\\_slides.scss"
+			],
+			[
+				"hakuco",
+				"src\\haiku\\directives\\haiku.coffee"
+			],
+			[
+				"flex",
+				"vendor\\inuit.css\\objects\\_flexbox.scss"
+			],
+			[
+				"haina",
+				"styles\\haiku\\_nav.scss"
+			],
+			[
+				"hainav",
+				"styles\\haiku\\_nav.scss"
+			],
+			[
+				"haisli",
+				"styles\\haiku\\_slides.scss"
+			],
+			[
+				"haicate",
+				"styles\\haiku\\_categories.scss"
+			],
+			[
+				"appsc",
+				"styles\\app.scss"
+			],
+			[
+				"hakijade",
+				"src\\haiku\\partials\\haiku.jade"
+			],
+			[
+				"color",
+				"styles\\_colors.scss"
+			],
+			[
+				"intro",
+				"src\\pages\\partials\\intro.jade"
+			],
+			[
+				"intrja",
+				"src\\pages\\partials\\intro.jade"
+			],
+			[
+				"indeco",
+				"src\\index.coffee"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"rectacoff",
+				"src\\canvas\\directives\\drag-rectangle.coffee"
+			],
+			[
+				"editorcoff",
+				"src\\canvas\\directives\\editor.coffee"
+			],
+			[
+				"editorco",
+				".editorconfig"
+			],
+			[
+				"edito",
+				"src\\canvas\\directives\\partials\\editor.jade"
+			],
+			[
+				"conf",
+				"styles\\_config.scss"
+			],
+			[
+				"con",
+				"config.rb"
+			],
+			[
+				"drag",
+				"src\\canvas\\directives\\drag-rectangle.coffee"
+			],
+			[
+				"colo",
+				"styles\\_colors.scss"
+			],
+			[
+				"conscs",
+				"styles\\_config.scss"
+			],
+			[
+				"confiscs",
+				"styles\\_config.scss"
+			],
+			[
+				"rec",
+				"src\\canvas\\directives\\drag-rectangle.coffee"
+			],
+			[
+				"padify",
+				"lib\\padify.js"
+			],
+			[
+				"run",
+				"build\\scripts\\run-qunit.js"
+			],
+			[
+				"assets",
+				"public\\js\\padify\\collections\\Assets.js"
+			],
+			[
+				"config.js",
+				"config.json"
+			],
+			[
+				"hnindeja",
+				"src\\hacker-news\\partials\\index.jade"
+			],
+			[
+				"hnindeco",
+				"src\\hacker-news\\controllers\\index.coffee"
+			],
+			[
+				"hackeindejade",
+				"src\\hacker-news\\partials\\index.jade"
+			],
+			[
+				"hackscs",
+				"styles\\ui\\_hacker-news.scss"
+			],
+			[
+				"ap",
+				"styles\\app.scss"
+			],
+			[
+				"hnmain",
+				"src\\hacker-news\\_main.coffee"
+			],
+			[
+				"heada",
+				"src\\head.jade"
+			],
+			[
+				"indejade",
+				"src\\index.jade"
+			],
+			[
+				"hninde",
+				"src\\hacker-news\\controllers\\index.coffee"
+			],
+			[
+				"hn",
+				"src\\hacker-news\\main.coffee"
+			],
+			[
+				"idnexo",
+				"src\\index.coffee"
+			],
+			[
+				"intr",
+				"src\\pages\\intro.coffee"
+			],
+			[
+				"idneja",
+				"src\\index.jade"
+			],
+			[
+				"config",
+				"config.rb"
+			],
+			[
+				"topna",
+				"src\\common\\ui\\_top-nav.scss"
+			],
+			[
+				"de",
+				"vendor\\inuit.css\\_defaults.scss"
+			],
+			[
+				"rtpo",
+				"src\\common\\_typography.scss"
+			],
+			[
+				"introjade",
+				"src\\pages\\partials\\intro.jade"
+			],
+			[
+				"sitesetting",
+				"app\\wp-content\\themes\\blue\\site_settings.php"
+			],
+			[
+				"blue",
+				"C:\\Users\\vampy_000\\AppData\\Local\\Temp\\scp44569\\tn\\wp-content\\themes\\blue\\blue.css"
+			],
+			[
+				"wp-con",
+				"app\\wp-config.php"
+			],
+			[
+				"grun",
+				"GruntFile.coffee"
+			],
+			[
+				"mode",
+				"app\\assets\\js\\modernizr.js"
+			],
+			[
+				"assemode",
+				"app\\assets\\js\\modernizr.js"
+			],
+			[
+				"moder",
+				"app\\assets\\js\\modernizr.js"
+			],
+			[
+				"appli",
+				"app\\src\\application.coffee"
+			],
+			[
+				"an",
+				"vendor\\angular\\angular.js"
+			],
+			[
+				"tepma",
+				"public\\js\\templates.js"
+			],
+			[
+				"idne",
+				"app\\src\\index.coffee"
+			],
+			[
+				"indexcoffe",
+				"connectivity-ui-2\\app\\index.coffee"
+			],
+			[
+				"appinde",
+				"app\\index.html"
+			],
+			[
+				"inde",
+				"app\\index.html"
+			],
+			[
+				"appjs",
+				"public\\js\\app.js"
+			],
+			[
+				"zep",
+				"components\\zepto\\zepto.js"
+			],
+			[
+				"im",
+				"app\\imports.json"
+			],
+			[
+				"vend",
+				"public\\js\\vendor.js"
+			],
+			[
+				"mainco",
+				"app\\src\\main.coffee"
+			],
+			[
+				"zept",
+				"components\\zepto\\zepto.js"
+			],
+			[
+				"main",
+				"app\\src\\main.coffee"
+			],
+			[
+				"ze",
+				"components\\zepto\\zepto.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"rmote",
+				"D:\\developer\\haiku-remote\\Haiku Remote.sublime-project"
+			],
+			[
+				"",
+				"D:\\developer\\Connectivity.sublime-project"
+			],
+			[
+				"pard",
+				"D:\\developer\\parde\\Parde.sublime-project"
+			],
+			[
+				"demo",
+				"D:\\developer\\DEMO - Contentment project.sublime-project"
+			],
+			[
+				"conne",
+				"D:\\developer\\Connectivity.sublime-project"
+			],
+			[
+				"con",
+				"D:\\developer\\Connectivity.sublime-project"
+			],
+			[
+				"cn",
+				"D:\\developer\\Connectivity.sublime-project"
+			],
+			[
+				"conn",
+				"D:\\developer\\Connectivity.sublime-project"
+			],
+			[
+				"pap",
+				"D:\\developer\\paprikka2\\paprikka 2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

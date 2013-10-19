@@ -1,0 +1,30 @@
+html
+  head
+    script(src="/socket.io/socket.io.js")
+  body(onload="init()")
+    h1  Test page
+    pre#messages
+
+
+
+    script
+      function init(){
+
+        console.log('socket test init')
+        var url  = 'http://'+ window.location.hostname;
+        
+        if(window.location.port){
+          url += ':' + window.location.port;
+        }
+
+        var socket = io.connect(url);
+        
+        socket.emit('ping', {})
+        socket.on('pong', function(){
+          console.log('ping pong!');
+        });
+
+        socket.on('remote', function (data) {
+          console.log('remote:', data);
+        });
+      }

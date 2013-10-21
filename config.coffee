@@ -32,9 +32,11 @@ exports.set = (app)->
 
 
     app.use app.router
+    STATIC_PATH = path.join 'public'
     # PLAYER_PATH = path.join 'node_modules', 'haiku-player', 'public'
     # REMOTE_PATH = path.join 'node_modules', 'haiku-remote', 'public'
 
+    app.use '/', express.static STATIC_PATH
     # app.use '/remote', express.static REMOTE_PATH
     # app.use '/app', express.static PLAYER_PATH
 

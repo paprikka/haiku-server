@@ -1,6 +1,8 @@
 html
   head
     script(src="/socket.io/socket.io.js")
+    script(src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js")
+    script(src="/js/console.js")
   body(onload="init()")
     h1  Test page
     pre#messages
@@ -25,6 +27,6 @@ html
         });
 
         socket.on('remote', function (data) {
-          console.log('remote:', data);
+          console.log('received remote:', data);
         });
       }

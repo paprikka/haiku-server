@@ -1,0 +1,15 @@
+html
+  head
+    script(src="/socket.io/socket.io.js")
+    script(src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js")
+    script(src="/js/console.js")
+    link(rel="stylesheet", href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css")
+  body(ng-app="app.console")
+    div.container
+      h1  WebSockets console
+      div.well(ng-controller="ConsoleCtrl")
+        pre(ng-click=" response = null ") {{ response | json }}
+        form.form.form-horizontal(ng-submit="send()")  
+          .form-group: input.form-control(type="text", placeholder="name", ng-model="outgoing.name")
+          .form-group: textarea.form-control(placeholder="payload", ng-model="outgoing.payload")
+          .form-group: button.btn.btn-primary.btn-block(type="submit") send

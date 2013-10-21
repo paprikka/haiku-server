@@ -36,9 +36,9 @@ app.io = ioLib.listen server
 
 
 
-app.io.configure -> 
-  app.io.set "transports", ["xhr-polling"]
-  app.io.set "polling duration", 10
+# app.io.configure -> 
+#   app.io.set "transports", ["xhr-polling"]
+#   app.io.set "polling duration", 10
 
 # socket = new io.Socket();
 
@@ -48,6 +48,7 @@ app.io.sockets.on 'connection', (socket)->
 
   socket.on 'remote', (data)->
     socket.broadcast.emit 'remote', data
+    socket.emit 'remote', data
     console.log """
       ---------
       #{JSON.stringify(data)}
